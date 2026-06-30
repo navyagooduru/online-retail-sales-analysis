@@ -75,4 +75,4 @@ retail_project/
 ## Author
 
 Navya Gooduru — final-year Data Science student
-[LinkedIn](linkedin.com/in/navya-gooduru-787129278) | [GitHub](https://github.com/navyagooduru)
+[LinkedIn](https://linkedin.com/in/navya-gooduru-787129278) | [GitHub](https://github.com/navyagooduru)
