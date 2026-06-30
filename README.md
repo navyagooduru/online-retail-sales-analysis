@@ -8,7 +8,7 @@ The business needed to understand: which products and customers drive the most r
 
 ## Dataset
 
-- **Source:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail) (also available on Kaggle)
+- **Source:** kaggle Dataset
 - **Size:** ~540,000 transactions
 - **Period:** December 2010 – December 2011
 - **Fields:** Invoice number, stock code, product description, quantity, invoice date, unit price, customer ID, country
