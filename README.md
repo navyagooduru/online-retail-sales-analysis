@@ -47,6 +47,7 @@ The business needed to understand: which products and customers drive the most r
 
 *(Add a screenshot of your Excel/Google Sheets dashboard here — see instructions below)*
 <img width="1343" height="626" alt="image" src="https://github.com/user-attachments/assets/1c1f3f73-0335-48ce-8a8f-5999d785806d" />
+<img width="1362" height="722" alt="image" src="https://github.com/user-attachments/assets/ad4468fb-d24b-4ff4-8231-97d23799f77b" />
 
 
 ## Repository Structure
